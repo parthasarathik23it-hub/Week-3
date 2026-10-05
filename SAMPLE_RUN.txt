@@ -1,0 +1,25 @@
+SAMPLE RUN
+
+======================================
+     LIBRARY BOOK INVENTORY SYSTEM
+======================================
+
+----------- MENU -----------
+1. Add Book
+2. List All Books
+3. Update Book
+4. Delete Book
+5. Exit
+----------------------------
+Enter your choice: 1
+Enter title: Clean Code
+Enter author: Robert C. Martin
+Enter ISBN: 9780132350884
+Enter publication year: 2008
+Book added successfully.
+
+Enter your choice: 2
+ISBN: 9780132350884 | Title: Clean Code | Author: Robert C. Martin | Publication Year: 2008
+
+Enter your choice: 5
+Thank you for using the Library System.
